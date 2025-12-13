@@ -12,10 +12,10 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Digital Forensics Precious Report       | <a href="https://google.com">Detection Lab</a>|
-| Digital Foresnics Mantooth Report | <a href="https://google.com">Detection Lab</a>|
-| Digital Foresnics Washer Report         | SOC Automation Lab|
-| Digital Foresnics Clampet Report      | SOC Automation Lab|
+| Digital Forensics Precious Report       | <a href="https://github.com/Dolskiiii/Precious-Report">Precious Report</a>|
+| Digital Foresnics Mantooth Report       | <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Report</a>|
+| Digital Foresnics Washer Report         | <a href="https://github.com/Dolskiiii/Washer-Report">Washer Report</a>|
+| Digital Foresnics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
 
 ### Tools Used
 <a href="https://www.autopsy.com/" target="_blank">
@@ -59,9 +59,7 @@ Windows Event Viewer - used to view detailed logs of events on a Windows system.
 *All tools used are free open-source tools that are available to anyone*
 
 ## Projects
-| Project                                  | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Digital Forensics Precious Report       | <a href="https://google.com">Detection Lab</a>|
-| Digital Foresnics Mantooth Report | <a href="https://google.com">Detection Lab</a>|
-| Digital Foresnics Washer Report         | SOC Automation Lab|
-| Digital Foresnics Clampet Report      | SOC Automation Lab|
+- <a href="https://github.com/Dolskiiii/Precious-Report">Precious Image Report</a>
+- <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Image Report</a>
+- <a href="https://github.com/Dolskiiii/Washer-Report">Washer Image Report</a>
+- <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Image Report</a>
