@@ -6,11 +6,18 @@ I am currently a sophomore enrolled at Saint Francis University. I am majoring i
 
 ## Objective
 
-Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Digital Forensics and Pen Testing. 
+Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Digital Forensics and Pen Testing. I aim to apply what I have learned in Digital Forensics to contribute to real-world investigations and assessments. I am very curious and love learning about new things and tools that can better my understanding in the field.
 
 ### Skills 
 
-
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
