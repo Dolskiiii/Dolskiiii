@@ -12,25 +12,56 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Digital Forensics Precious Report       | <a href="https://google.com">Detection Lab</a>|
+| Digital Foresnics Mantooth Report | <a href="https://google.com">Detection Lab</a>|
+| Digital Foresnics Washer Report         | SOC Automation Lab|
+| Digital Foresnics Clampet Report      | SOC Automation Lab|
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+<a href="https://www.autopsy.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
+</a>
+- A digital forensics platform used to analyze hard drives or forensic images of hard drives.
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+<br/>
+
+<a href="https://ericzimmerman.github.io/#!index.md" target="_blank">
+  <img src="https://img.shields.io/badge/-Registry%20Explorer-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+- An enhanced Windows registry analysis tool used to examine and interpret registry hives.
+
+<br/>
+
+<a href="https://www.exterro.com/digital-forensics-software/ftk-imager" target="_blank">
+  <img src="https://img.shields.io/badge/-FTK%20Imager-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+- A forensic tool used to create a bit-by-bit copy of a storage device without altering the original data.
+
+<br/>
+
+<a href="https://www.exterro.com/ftk-product-downloads/registry-viewer-2-0-0" target="_blank">
+  <img src="https://img.shields.io/badge/-Registry%20Viewer-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+- A software tool used to access, read, and analyze the Windows Registry.
+
+<br/>
+
+<a href="https://picpick.app/en/" target="_blank">
+  <img src="https://img.shields.io/badge/-PicPick-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+- Used to capture and edit images to clearly highlight important forensic information.
+
+<br/>
+
+Windows Event Viewer - used to view detailed logs of events on a Windows system.
+<br/>
+
+*All tools used are free open-source tools that are available to anyone*
 
 ## Projects
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+| Project                                  | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Digital Forensics Precious Report       | <a href="https://google.com">Detection Lab</a>|
+| Digital Foresnics Mantooth Report | <a href="https://google.com">Detection Lab</a>|
+| Digital Foresnics Washer Report         | SOC Automation Lab|
+| Digital Foresnics Clampet Report      | SOC Automation Lab|
