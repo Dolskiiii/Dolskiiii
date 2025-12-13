@@ -6,7 +6,7 @@ I am currently a sophomore enrolled at Saint Francis University. I am majoring i
 
 ## Objective
 
-Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Digital Forensics and Pen Testing. I aim to apply what I have learned in Digital Forensics to contribute to real-world investigations and assessments. I am very curious and love learning about new things and tools that can better my understanding in the field.
+Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Digital Forensics and Penetration Testing. I aim to apply what I have learned in Digital Forensics to contribute to real-world investigations and assessments. I am very curious and love learning about new things and tools that can better my understanding in the field.
 
 ### Skills 
 
