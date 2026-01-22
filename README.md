@@ -18,52 +18,49 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 | Digital Foresnics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
 
 ### Tools Used
-<a href="https://www.autopsy.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
+<a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
 </a>
 - A digital forensics platform used to analyze hard drives or forensic images of hard drives.
 
 <br/>
 
-<a href="https://ericzimmerman.github.io/#!index.md" target="_blank">
-  <img src="https://img.shields.io/badge/-Registry%20Explorer-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://ericzimmerman.github.io/#!index.md"><img src="https://img.shields.io/badge/-Eric%20Zimmerman%20Tools-333333?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 - An enhanced Windows registry analysis tool used to examine and interpret registry hives.
 
 <br/>
 
-<a href="https://www.exterro.com/digital-forensics-software/ftk-imager" target="_blank">
-  <img src="https://img.shields.io/badge/-FTK%20Imager-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://www.exterro.com/digital-forensics-software/ftk-imager"><img src="https://img.shields.io/badge/-FTK%20Imager-5A2D82?&style=for-the-badge&logo=exterro&logoColor=white" />
 </a>
 - A forensic tool used to create a bit-by-bit copy of a storage device without altering the original data.
 
 <br/>
 
-<a href="https://www.exterro.com/ftk-product-downloads/registry-viewer-2-0-0" target="_blank">
-  <img src="https://img.shields.io/badge/-Registry%20Viewer-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://www.exterro.com/ftk-product-downloads/registry-viewer-2-0-0"><img src="https://img.shields.io/badge/-Registry%20Viewer-5A2D82?&style=for-the-badge&logo=exterro&logoColor=white" />
 </a>
 - A software tool used to access, read, and analyze the Windows Registry.
 
 <br/>
 
-<a href="https://picpick.app/en/" target="_blank">
-  <img src="https://img.shields.io/badge/-PicPick-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://picpick.app/en/"><img src="https://img.shields.io/badge/-PicPick-2DBE60?&style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 - Used to capture and edit images to highlight important forensic information clearly.
 
 <br/>
 
-<a href="https://www.magnetforensics.com/products/magnet-axiom/" target="_blank">
-  <img src="https://img.shields.io/badge/-Magnet%20AXIOM-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+<a href="https://www.magnetforensics.com/products/magnet-axiom/"><img src="https://img.shields.io/badge/-Magnet%20AXIOM-1F4ED8?&style=for-the-badge&logo=magento&logoColor=white" />
 </a> 
-- A paid digital forensics platform used to analyze hard drives or forensic images of hard drives.
+- A paid digital forensics platform used to collect, analyze, and correlate evidence from computers, mobile devices, and cloud data in a single case.
+
+<br/>
+<img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+- Used to view detailed logs of events on a Windows system.
 
 <br/>
 
-Windows Event Viewer - used to view detailed logs of events on a Windows system.
-<br/>
-
-
+*Most tools used are open source and can be downloaded and used by anyone.*
 
 ## Projects
 - <a href="https://github.com/Dolskiiii/Precious-Report">Precious Image Report</a>
