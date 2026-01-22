@@ -49,14 +49,21 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 <a href="https://picpick.app/en/" target="_blank">
   <img src="https://img.shields.io/badge/-PicPick-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
 </a>
-- Used to capture and edit images to clearly highlight important forensic information.
+- Used to capture and edit images to highlight important forensic information clearly.
+
+<br/>
+
+<a href="https://www.magnetforensics.com/products/magnet-axiom/" target="_blank">
+  <img src="https://img.shields.io/badge/-Magnet%20AXIOM-2E86C1?&style=for-the-badge&logo=windows&logoColor=white" />
+</a> 
+- A paid digital forensics platform used to analyze hard drives or forensic images of hard drives.
 
 <br/>
 
 Windows Event Viewer - used to view detailed logs of events on a Windows system.
 <br/>
 
-*All tools used are free open-source tools that are available to anyone*
+
 
 ## Projects
 - <a href="https://github.com/Dolskiiii/Precious-Report">Precious Image Report</a>
