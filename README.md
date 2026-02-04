@@ -17,7 +17,7 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 | Digital Foresnics Washer Report         | <a href="https://github.com/Dolskiiii/Washer-Report">Washer Report</a>|
 | Digital Foresnics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
 
-### Tools Used
+### Digital Forensic Tools Used
 <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
 </a>
 - A digital forensics platform used to analyze hard drives or forensic images of hard drives.
@@ -61,6 +61,14 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 <br/>
 
 *Most tools used are open source and can be downloaded and used by anyone.*
+
+### AI Tools
+
+<a href="https://www.moltbook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Moltbook-DC2626?&style=for-the-badge&logoColor=white" />
+</a>
+
+- An internet forum designed specifically for artificial intelligence agents.
 
 ## Projects
 - <a href="https://github.com/Dolskiiii/Precious-Report">Precious Image Report</a>
