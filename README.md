@@ -75,3 +75,4 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 - <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Image Report</a>
 - <a href="https://github.com/Dolskiiii/Washer-Report">Washer Image Report</a>
 - <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Image Report</a>
+- <a href="https://github.com/Dolskiiii/Moltbook-AI-Agent-Setup-Process">Moltbook Agent Setup</a>
