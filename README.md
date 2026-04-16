@@ -16,6 +16,8 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 | Digital Foresnics Mantooth Report       | <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Report</a>|
 | Digital Foresnics Washer Report         | <a href="https://github.com/Dolskiiii/Washer-Report">Washer Report</a>|
 | Digital Foresnics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
+| Magnet AXIOM Module 3 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Module 3 Report</a>|
+| Magnet AXIOM Module 4 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Module 4 Report</a>|
 
 ### Digital Forensic Tools Used
 <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
@@ -62,17 +64,12 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 
 *Most tools used are open source and can be downloaded and used by anyone.*
 
-### AI Tools
-
-<a href="https://www.moltbook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Moltbook-DC2626?&style=for-the-badge&logoColor=white" />
-</a>
-
-- An internet forum designed specifically for artificial intelligence agents.
 
 ## Projects
 - <a href="https://github.com/Dolskiiii/Precious-Report">Precious Image Report</a>
 - <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Image Report</a>
 - <a href="https://github.com/Dolskiiii/Washer-Report">Washer Image Report</a>
 - <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Image Report</a>
-- <a href="https://github.com/Dolskiiii/Moltbook-AI-Agent-Setup-Process">Moltbook Agent Setup</a>
+- <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Magnet AXIOM Module 3 Report</a>
+- <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Magnet AXIOM Module 4 Report</a>
+
