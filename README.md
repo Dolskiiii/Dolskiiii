@@ -14,8 +14,8 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 |-----------------------------------------------|----------------------------|
 | Digital Forensics Precious Report       | <a href="https://github.com/Dolskiiii/Precious-Report">Precious Report</a>|
 | Digital Foresnics Mantooth Report       | <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Report</a>|
-| Digital Foresnics Washer Report         | <a href="https://github.com/Dolskiiii/Washer-Report">Washer Report</a>|
-| Digital Foresnics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
+| Digital Forensics Washer Report         | <a href="https://github.com/Dolskiiii/Washer-Report">Washer Report</a>|
+| Digital Forensics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
 | Magnet AXIOM Module 3 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Module 3 Report</a>|
 | Magnet AXIOM Module 4 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Module 4 Report</a>|
 
