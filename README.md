@@ -10,6 +10,10 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 
 ### Skills 
 
+<table>
+  <tr>
+    <td valign="top">
+
 | Digital Forensics                             | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Digital Forensics Precious Report       | <a href="https://github.com/Dolskiiii/Precious-Report">Precious Report</a>|
@@ -19,9 +23,16 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 | Magnet AXIOM Module 3 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Module 3 Report</a>|
 | Magnet AXIOM Module 4 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Module 4 Report</a>|
 
+ </td>
+    <td valign="top">
+
 | Open Source Intelligence (OSINT)        | Associated Project               |
 |-----------------------------------------|----------------------------------|
-| OSINT Dojo Sakura Room                  | <a href="https://github.com/Dolskiiii/">Sakura Report</a>|
+| OSINT Dojo Sakura Room                  | <a href="https://github.com/Dolskiiii/Sakura-Report">Sakura Report</a>|
+
+</td>
+  </tr>
+</table>
 
 ### Digital Forensic Tools Used
 <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
@@ -76,4 +87,5 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 - <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Image Report</a>
 - <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Magnet AXIOM Module 3 Report</a>
 - <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Magnet AXIOM Module 4 Report</a>
+- <a href="https://github.com/Dolskiiii/Sakura-Report">Sakura Report</a>
 
