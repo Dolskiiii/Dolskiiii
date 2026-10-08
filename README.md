@@ -10,14 +10,18 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 
 ### Skills 
 
-| Skill                                         | Associated Project         |
+| Digital Forensics                             | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Digital Forensics Precious Report       | <a href="https://github.com/Dolskiiii/Precious-Report">Precious Report</a>|
-| Digital Foresnics Mantooth Report       | <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Report</a>|
+| Digital Forensics Mantooth Report       | <a href="https://github.com/Dolskiiii/Mantooth-Report">Mantooth Report</a>|
 | Digital Forensics Washer Report         | <a href="https://github.com/Dolskiiii/Washer-Report">Washer Report</a>|
 | Digital Forensics Clampet Report        | <a href="https://github.com/Dolskiiii/Clampet-Report">Clampet Report</a>|
 | Magnet AXIOM Module 3 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Module 3 Report</a>|
 | Magnet AXIOM Module 4 Report            | <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Module 4 Report</a>|
+
+| Open Source Intelligence (OSINT)        | Associated Project               |
+|-----------------------------------------|----------------------------------|
+| OSINT Dojo Sakura Room                  | <a href="https://github.com/Dolskiiii/">Sakura Report</a>|
 
 ### Digital Forensic Tools Used
 <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-Autopsy-2E86C1?&style=for-the-badge&logo=autopsy&logoColor=white" />
