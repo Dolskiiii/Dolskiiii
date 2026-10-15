@@ -2,7 +2,7 @@
 # Hello, I'm Dylan Nelson!
 <a href="https://www.linkedin.com/in/dylan-nelson-85735b32a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently a sophomore enrolled at Saint Francis University. I am majoring in Cybersecurity and minoring in Computer Science and Philosophy. I come from the small town of Northern Cambria and am very interested in technology.
+I am currently a Junior enrolled at Saint Francis University. I am majoring in Cybersecurity and minoring in Computer Science and Philosophy. I come from the small town of Northern Cambria and am very interested in technology.
 
 ## Objective
 
