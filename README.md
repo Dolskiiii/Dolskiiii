@@ -30,6 +30,7 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 | Open Source Intelligence (OSINT)        | Associated Project               |
 |-----------------------------------------|----------------------------------|
 | OSINT Dojo Sakura Room                  | <a href="https://github.com/Dolskiiii/Sakura-Report">Sakura Report</a>|
+| Orkla Dragon Con Detective              | <a href="https://github.com/Dolskiiii/">Orkla Report</a>|
 
 </td>
   </tr>
