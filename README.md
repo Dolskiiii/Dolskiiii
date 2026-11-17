@@ -30,7 +30,7 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 | Open Source Intelligence (OSINT)        | Associated Project               |
 |-----------------------------------------|----------------------------------|
 | OSINT Dojo Sakura Room                  | <a href="https://github.com/Dolskiiii/Sakura-Report">Sakura Report</a>|
-| Orkla Dragon Con Detective              | <a href="https://github.com/Dolskiiii/">Orkla Report</a>|
+| Orkla Dragon Con Detective              | <a href="https://github.com/Dolskiiii/Orkla-Report">Orkla Report</a>|
 
 </td>
   </tr>
@@ -90,4 +90,5 @@ Pursuing my degree in Cybersecurity, I plan to continue to build my skills in Di
 - <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-3">Magnet AXIOM Module 3 Report</a>
 - <a href="https://github.com/Dolskiiii/Magnet-AXIOM-Module-4">Magnet AXIOM Module 4 Report</a>
 - <a href="https://github.com/Dolskiiii/Sakura-Report">Sakura Report</a>
+- <a href="https://github.com/Dolskiiii/Orkla-Report">Orkla Report</a>
 
